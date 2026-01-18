@@ -1,4 +1,4 @@
-function solicitarString() {
+  function solicitarString() {
     let nome = prompt("Digite o seu nome");
     let sobrenome = prompt(" Digite o seu sobre nome");
 
